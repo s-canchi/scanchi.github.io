@@ -21,7 +21,7 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - CFDE: "https://www.nih-cfde.org"
-    - Publications: "publications"
+    - Papers: "publications"
   Resources:
     - Useful Links: "links"
     - Data Carpentry: "https://datacarpentry.org"
