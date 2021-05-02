@@ -19,13 +19,15 @@ author: Saranya Canchi
 
 navbar-links:
   About Me: "aboutme"
-
+  Projects:
+    - CFDE: "https://www.nih-cfde.org"
+    - Publications: "publications"
   Resources:
     - Useful Links: "links"
     - Data Carpentry: "https://datacarpentry.org"
     - Software Carpentry: "https://software-carpentry.org"
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+
+
 
 
 # --- Logo --- #
