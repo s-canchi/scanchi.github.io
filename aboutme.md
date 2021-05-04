@@ -5,7 +5,7 @@ title: About me
 
 I am an engineering researcher turned bioinformatician passionate about teaching and training!
 
-I am currently a postdoctoral researcher at University of California Davis, where I develop and test technical documentation on broad topics including bioinformatics, cloud computing and data reusability for the [NIH Common Fund Data Ecosystem](https://nih-cfde.org/).
+I am currently a bioinformatics training focussed postdoctoral researcher at University of California Davis, where I develop and test technical documentation on broad topics including bioinformatics, cloud computing and data reusability for the [NIH Common Fund Data Ecosystem](https://nih-cfde.org/).
 
 I received my PhD at the [Department of Mechanical & Aerospace Engineering at University of Florida](https://mae.ufl.edu). My dissertation research was focussed on understanding the cellular mechanisms associated with primary blast-induced traumatic brain injury (bTBI), which is a common concern among military personnel. My thesis work earned **Best Dissertation Award** in the Solid Mechanics, Design and Manufacturing track.
 
